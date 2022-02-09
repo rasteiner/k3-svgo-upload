@@ -38,3 +38,4 @@ MIT
 ## Credits
 
 - [Roman Steiner](https://getkirby.com/plugins/rasteiner)
+- [People of svg/svgo](https://github.com/svg/svgo)
