@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "watch": "node ./scripts/build.js --watch",
+    "build": "node ./scripts/build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.21"
+  },
+  "dependencies": {
+    "svgo": "^2.8.0"
+  }
+}

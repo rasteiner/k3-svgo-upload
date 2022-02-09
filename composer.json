@@ -1,0 +1,21 @@
+{
+  "name": "rasteiner/k3-svgo-upload",
+  "description": "Optimize SVG images before uploading them",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "homepage": "https://github.com/rasteiner/k3-svgo-upload",
+  "version": "0.0.0",
+  "authors": [
+    {
+      "name": "Roman Steiner",
+      "email": "roman@toastlab.ch",
+      "homepage": "https://getkirby.com/plugins/rasteiner"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.2"
+  },
+  "extra": {
+    "installer-name": "k3-svgo-upload"
+  }
+}
